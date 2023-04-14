@@ -4,7 +4,7 @@ Example app that can select nostr global timeline as table.
 
 ## Usage
 
-![video](https://nostr.build/av/nostr.build_ea89ad4c3df0b701e2e51b89511e906d385487706b85a9aecead57435a6d86cc.mp4)
+https://user-images.githubusercontent.com/10111/232066675-9b87b40a-8476-43dc-a5f1-6ce340a2b034.mp4
 
 ## Installation
 
